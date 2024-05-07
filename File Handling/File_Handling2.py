@@ -1,7 +1,7 @@
 # Write an examlple progarm to store information regarding your friends
 
 try:
-    file=open("file1.txt","w")
+    file=open("File Handling/file1.txt","w")
     while True:
         opt=input("Do you want to add friends info (Yes/No):")
         if opt.lower()=="yes":

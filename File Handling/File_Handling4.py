@@ -1,7 +1,7 @@
 # Python program to read a file of friends list
 # Search a friend name and print Mobile number...
 
-file=open("file1.txt","r")
+file=open("File Handling/file1.txt","r")
 name=input("Enter the friends name: ")
 flag=False
 for i in file:

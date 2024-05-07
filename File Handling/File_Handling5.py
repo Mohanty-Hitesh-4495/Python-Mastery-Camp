@@ -1,6 +1,6 @@
 # Find the friends from the file from their City Name...
 
-file=open("file1.txt","r")
+file=open("File Handling/file1.txt","r")
 city=input("Enter the city :")
 
 flag=False
