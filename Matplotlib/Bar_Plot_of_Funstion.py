@@ -1,4 +1,4 @@
-# 1. plot the function fx=x^2+1 in the range (2-10)
+# 1. plot Bar the function fx=x^2+1 in the range (2-10)
 
 from matplotlib import pyplot as plt
 
@@ -9,6 +9,5 @@ plt.bar(l1,l2)
 plt.title("function f(x)=(x^2)+1 in the range (2-10)")
 plt.xlabel("Value of X")
 plt.ylabel("f(x)=(x^2)+1")
-plt.legend()
 plt.show()
 
